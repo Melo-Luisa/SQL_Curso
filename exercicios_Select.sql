@@ -1,0 +1,3 @@
+/*exercicio*/
+select * from gafanhotos;
+
